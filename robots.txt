@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigahthai.2inf.top/sitemap.xml
